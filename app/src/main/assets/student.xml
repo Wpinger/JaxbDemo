@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student name="zhangsan">
+    <course grade="1年级">
+        <english coursename="英语1" time="10"/>
+        <english coursename="英语2" time="9"/>
+        <english coursename="英语3" time="8"/>
+        <science coursename="自然1" time="7"/>
+        <science coursename="自然2" time="6"/>
+        <science coursename="自然3" time="5"/>
+    </course>
+    <course grade="2年级">
+        <english coursename="英语a" time="10"/>
+        <english coursename="英语b" time="9"/>
+        <english coursename="英语c" time="8"/>
+        <science coursename="自然d" time="7"/>
+        <science coursename="自然e" time="6"/>
+        <science coursename="自然f" time="5"/>
+    </course>
+</student>
